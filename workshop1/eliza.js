@@ -41,7 +41,7 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    <img height = "315" src = "http://www.pbh2.com/wordpress/wp-content/uploads/2013/03/cute-puppy-gifs-rolling-over.gif" alt = "memex">,
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
